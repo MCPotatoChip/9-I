@@ -1,0 +1,40 @@
+body{
+    scroll-behavior: smooth;
+    background-color: #80AFC2;
+    font-family: "Nunito", sans-serif;
+}
+.idk{
+    height: 100px;
+    width: 500px;
+    background-color:#4CAA8F    ;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    color:  gray;
+}
+h3{
+    font-size: 50px;
+    color: black;
+    margin-left: 30px;
+}
+.siirler{
+    column-count: 5;
+}
+.siir{
+    background-color: #Ffef00;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+}
+.title{
+    display: flex;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    margin-left: 500px;
+}
